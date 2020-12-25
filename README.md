@@ -14,5 +14,5 @@ docker build --tag app-golang:1.0 .
 - docker push reponame:tagname
 
 ## Sample
-- docker tag app-golang:1.0 firdasafridi/go-hello:1.0
-- docker push firdasafridi/go-hello:tagname
+- docker tag app-golang:1.0 firdasafridi/app-golang:1.0
+- docker push firdasafridi/app-golang:1.0
